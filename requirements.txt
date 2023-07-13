@@ -1,0 +1,5 @@
+os
+requests
+pydub
+BeautifulSoup4
+argparse
